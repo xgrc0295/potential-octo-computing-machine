@@ -1,4 +1,4 @@
-package com.itzyb.domain;
+package com.printer.domain;
 
 import com.baomidou.mybatisplus.annotation.TableId;
 import lombok.Data;

@@ -28,7 +28,7 @@ mybatis-plus:
     map-underscore-to-camel-case: true
     call-setters-on-nulls: true
   mapper-locations: classpath:mybatis/mapper/*.xml
-  type-aliases-package: com.itzyb.domain
+  type-aliases-package: com.printer.domain
 
 
 

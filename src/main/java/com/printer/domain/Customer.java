@@ -1,10 +1,10 @@
-package com.itzyb.domain;
+package com.printer.domain;
 
 import com.baomidou.mybatisplus.annotation.TableId;
 import lombok.Data;
 
 @Data
-public class customer {
+public class Customer {
     @TableId("customer_id")
     Integer customerId;
     String customerName;

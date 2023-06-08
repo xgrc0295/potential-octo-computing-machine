@@ -1,4 +1,4 @@
-package com.itzyb.config;
+package com.printer.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
